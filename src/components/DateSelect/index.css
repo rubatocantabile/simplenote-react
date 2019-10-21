@@ -1,0 +1,36 @@
+
+div.dateselect > select.year {
+  display: inline;
+  font-size: 24px;
+  font-weight: 800;
+  font-family: inherit;
+  border: 0px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 30px;
+  outline: none;
+}
+
+div.dateselect > select.month {
+  display: inline;
+  font-size: 24px;
+  font-weight: 800;
+  font-family: inherit;
+  border: 0px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 30px;
+  outline: none;
+}
+
+div.dateselect > select.day {
+  display: inline;
+  font-size: 24px;
+  font-weight: 800;
+  font-family: inherit;
+  border: 0px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 30px;
+  outline: none;
+}
